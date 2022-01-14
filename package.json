@@ -1,0 +1,22 @@
+{
+  "name": "good-shadows",
+  "version": "1.0.0",
+  "description": "Allows to get perfect shadows without any effort",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItzAshu397/Good-Shadows.git"
+  },
+  "keywords": [
+    "good-shadows"
+  ],
+  "author": "Ashutosh Swamy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItzAshu397/Good-Shadows/issues"
+  },
+  "homepage": "https://github.com/ItzAshu397/Good-Shadows#readme"
+}
