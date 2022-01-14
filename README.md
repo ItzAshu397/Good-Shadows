@@ -1,6 +1,6 @@
 # Good Shadows
 
-good-shadows is a NPM package which allows to get perfect shadows without any effort
+good-shadows is a NPM package which allows to get perfect shadows without any effort.
 
 # How to install this package?
 
